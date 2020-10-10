@@ -2,23 +2,19 @@
 
 This is not a decent README.md file...but it will be, soon enough!
 
-For now:
 
-Visit my repositories and contribute!
-Take your vitamins and keep swimming!
-Stay away from NSFW stuff and from everything that isn't healthy XD
-Comment your code - it makes a lot easier for people to understand what you've done wrong hahaha
-I LOVE YOU ALL! LOVE IS ALL WE NEED
-(and also pizza's...)
+## To reach out to me:
 
-To reach out to me:
-Instagram: @mrdiul_netizen
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridulsetia18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-setia-990944146/)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-fa37e3?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mridul__af/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-6db0f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mridul62963537)
+[![Devfolio](https://img.shields.io/badge/-Devfolio-315bf5?style=for-the-badge&logo=devfolio&logoColor=070808)](https://devfolio.co/@Mridul18)
 
-Twitter: @Mridul62963537
+### My S tats
 
-LinkedIn:https://www.linkedin.com/in/mridul-setia-990944146/
+[![Mridul's github stats](https://github-readme-stats.vercel.app/api?username=mridul-netizen)](https://github.com/mridul-netizen/github-readme-stats)
 
-Website: mridul-netizen.github.io
 
 <!--
 **mridul-netizen/mridul-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
