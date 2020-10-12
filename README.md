@@ -11,9 +11,12 @@ This is not a decent README.md file...but it will be, soon enough!
 [![Twitter](https://img.shields.io/badge/-TWITTER-6db0f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mridul62963537)
 [![Devfolio](https://img.shields.io/badge/-Devfolio-315bf5?style=for-the-badge&logo=devfolio&logoColor=070808)](https://devfolio.co/@Mridul18)
 
-### My S tats
+### My Stats
 
 [![Mridul's github stats](https://github-readme-stats.vercel.app/api?username=mridul-netizen)](https://github.com/mridul-netizen/github-readme-stats)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-netizen&show_icons=true&theme=radical&layout=compact)
+
 
 
 <!--
