@@ -1,6 +1,10 @@
 ### Hi ! 👋,I am Mridul(Euxodous)![stat](https://komarev.com/ghpvc/?username=mridul-netizen&style=flat-square)
 
 This is not a decent README.md file...but it will be, soon enough!
+-   :mortar_board: Currently Studying in **J.C Bose University Of Science & Technology, Haryana (2023)**
+- 👯 I’m looking to collaborate on Web-development Projects
+- :blue_heart: I am Also Learning Machine Learning & Deep Learning using Pytorch.
+- :heart: Currently in Love with JavaScript.
 
 
 ## To reach out to me:
@@ -13,7 +17,7 @@ This is not a decent README.md file...but it will be, soon enough!
 
 ### My Stats
 
-[![Mridul's github stats](https://github-readme-stats.vercel.app/api?username=mridul-netizen)](https://github.com/mridul-netizen/github-readme-stats)
+![Mridul's github stats](https://github-readme-stats.vercel.app/api?username=mridul-netizen&show_icons=true&theme=radical) 
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridul-netizen&show_icons=true&theme=radical&layout=compact)
 
@@ -43,17 +47,4 @@ This is not a decent README.md file...but it will be, soon enough!
 
 
 
-<!--
-**mridul-netizen/mridul-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:language and tools
--->
