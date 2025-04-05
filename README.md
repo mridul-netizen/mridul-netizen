@@ -1,10 +1,6 @@
-### Hi ! 👋,I am Mridul(Euxodous)![stat](https://komarev.com/ghpvc/?username=mridul-netizen&style=flat-square)
+### Hi ! 👋,I am Mridul![stat](https://komarev.com/ghpvc/?username=mridul-netizen&style=flat-square)
 
-This is not a decent README.md file...but it will be, soon enough!
--   :mortar_board: Currently Studying in **J.C Bose University Of Science & Technology, Haryana (2023)**
-- 👯 I’m looking to collaborate on Web-development Projects
-- :blue_heart: I am Also Learning Machine Learning & Deep Learning using Pytorch.
-- :heart: Currently in Love with JavaScript.
+I am a Backend engineer with a focus on building scalable systems, designing robust APIs, and optimizing performance for high-traffic applications. Passionate about clean architecture, efficient data modeling, and writing maintainable, well-tested code. I enjoy solving complex problems, improving system reliability, and collaborating closely with cross-functional teams to deliver seamless user experiences. Always curious, always learning :)
 
 
 ## To reach out to me:
